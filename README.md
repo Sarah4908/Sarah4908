@@ -9,17 +9,16 @@
 ##  Projects
 
 ### Satellite Telemetry Monitoring & Anomaly Detection System
-A distributed telemetry processing platform that ingests satellite sensor data, performs anomaly detection using machine learning, and generates contextual explanations.
+A distributed telemetry processing platform that simulates satellite  data, performs anomaly detection using machine learning, and generates contextual explanations.
 
 **Tech Stack:**  
 Java (Spring Boot) • FastAPI • Scikit-Learn • React • PostgreSQL • Docker
 
 Features:
-- Real-time telemetry ingestion
 - IsolationForest-based anomaly detection
 - Microservice architecture
 - Dockerized multi-service deployment
-- WebSocket-based telemetry updates
+
 
 ---
 
