@@ -49,7 +49,7 @@ I like understanding how things actually work rather than just using them, which
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4267B2?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 
 ---
 
